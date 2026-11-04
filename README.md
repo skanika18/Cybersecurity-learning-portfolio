@@ -1,4 +1,4 @@
-# 👩‍💻 Kanika Sharma | Cybersecurity Portfolio
+# Kanika Sharma | Cybersecurity Portfolio
 
 **Aspiring SOC Analyst | CompTIA Security+ Certified | Cybersecurity Graduate**
 
